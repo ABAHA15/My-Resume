@@ -9,7 +9,7 @@
 
 ## 🔬 About Me
 
-I'm currently pursuing my Master's in Big Data Analytics and have a strong foundation in Mathematics (B.Sc. from AJC Bose College, University of Calcutta). I'm passionate about Machine Learning, Computer Vision, and Natural Language Processing. I love building real-world solutions using deep learning models and enjoy participating in academic and coding events.
+I'm currently pursuing my Master's in Big Data Analytics and have a strong foundation in Mathematics (B.Sc. from AJC Bose College, University of Calcutta). I'm passionate about Machine Learning, Computer Vision, Natural Language Processing, Deep Learning and Agentic AI. I love building real-world solutions using deep learning models and enjoy participating in academic and coding events.
 
 ---
 
